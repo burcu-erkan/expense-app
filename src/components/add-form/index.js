@@ -105,7 +105,7 @@ const AddForm = () => {
       <div className="form-add-button">
         <div onClick={handleSubmit}>
           <label>Add</label>
-          <i class="fi-rr-paper-plane"></i>
+        
         </div>
       </div>
     </div>

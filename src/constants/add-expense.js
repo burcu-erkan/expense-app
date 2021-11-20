@@ -28,7 +28,7 @@ export const categories = [
       title: "Other",
       icon: require("../assets/images/entertainment.png"),
       color: "#FFCB5E",
-    },
+    }
   ];
  
   
