@@ -11,7 +11,7 @@ const Header = () => {
                 </div>
                 <div className="header-button">
                     <a href="https://github.com/burcu-erkan/expense-app"
-                    target="_blank"
+                    target="_blank" rel="noreferrer"
                     ><i class="devicon-github-original"></i>Star</a>
                 </div>
  
